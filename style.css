@@ -1,0 +1,21 @@
+body{
+  font-family:Arial;
+  margin:0;
+}
+
+.content{
+  padding:20px;
+}
+
+.space{
+  height:2000px;
+}
+
+#topBtn{
+  position:fixed;
+  bottom:30px;
+  right:30px;
+  padding:10px 14px;
+  display:none;
+  cursor:pointer;
+}
